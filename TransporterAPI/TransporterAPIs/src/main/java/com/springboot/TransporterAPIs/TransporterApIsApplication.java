@@ -8,6 +8,7 @@ public class TransporterApIsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TransporterApIsApplication.class, args);
+		System.out.print("this is for testing");
 	}
 
 }
